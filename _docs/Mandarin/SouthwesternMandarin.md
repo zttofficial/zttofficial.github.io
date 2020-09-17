@@ -7,7 +7,7 @@ order: 1
 
 
 
-#四川話
+# 四川話
 
 [四川話正字](http://dialect.zttofficial.com/SzechuaneseCharacters/) 頁面中提供了有關四川話中正字的討論。
 
